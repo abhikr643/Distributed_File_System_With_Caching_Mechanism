@@ -8,7 +8,7 @@ This project simulates a **Distributed File System** with an integrated **LRU Ca
 ## 📁 Project Structure
 
 ```
-Distributed_File_System_With_Caching_GITHUB_Version/
+Distributed_File_System_With_Caching_Mechanism/
 ├── include/                  # Header files
 ├── src/                      # Source files
 ├── main.cpp                  # Entry point for the program

@@ -5,6 +5,16 @@ This project simulates a **Distributed File System** with an integrated **LRU Ca
 
 ---
 
+## 📦 Features
+
+- Simulates a distributed file system with node-level caching
+- Implements an **LRU (Least Recently Used)** cache for efficient file retrieval
+- Metadata storage for managing file info and replication
+- Thread-safe access using mutex for concurrent operations
+- Simulated node failure and replication handling
+
+---
+
 ## 📁 Project Structure
 
 ```
